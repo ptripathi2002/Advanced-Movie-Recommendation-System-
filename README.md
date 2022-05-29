@@ -26,7 +26,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 (c) Get your API key from https://www.themoviedb.org/.
 
-(d) Replace YOUR_API_KEY in both the places (line no. 15 and 29) of static/recommend.js file and hit save.
+(d) Replace API_KEY in both the places (line no. 15 and 29) of static/recommend.js file and hit save.
 
 (e) Open your terminal/command prompt from your project directory and run the file main.py by executing the command python main.py.
 
