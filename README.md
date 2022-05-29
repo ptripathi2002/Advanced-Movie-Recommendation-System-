@@ -21,10 +21,15 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 # How to run the project (If you want to run it on your own pc without the use of provided URL)?
 (a) Clone or download this repository to your local machine.
+
 (b) Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
+
 (c) Get your API key from https://www.themoviedb.org/.
+
 (d) Replace YOUR_API_KEY in both the places (line no. 15 and 29) of static/recommend.js file and hit save.
+
 (e) Open your terminal/command prompt from your project directory and run the file main.py by executing the command python main.py.
+
 (f) Go to your browser and type http://127.0.0.1:5000/ in the address bar.
 
 ## Similarity Score : 
